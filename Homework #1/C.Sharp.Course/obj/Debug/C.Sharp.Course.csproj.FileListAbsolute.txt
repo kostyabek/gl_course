@@ -4,3 +4,9 @@ D:\source\repos\C.Sharp.Course\C.Sharp.Course\bin\Debug\C.Sharp.Course.pdb
 D:\source\repos\C.Sharp.Course\C.Sharp.Course\obj\Debug\C.Sharp.Course.csprojAssemblyReference.cache
 D:\source\repos\C.Sharp.Course\C.Sharp.Course\obj\Debug\C.Sharp.Course.exe
 D:\source\repos\C.Sharp.Course\C.Sharp.Course\obj\Debug\C.Sharp.Course.pdb
+D:\Git Repos\Homework #1\C.Sharp.Course\bin\Debug\C.Sharp.Course.exe.config
+D:\Git Repos\Homework #1\C.Sharp.Course\bin\Debug\C.Sharp.Course.exe
+D:\Git Repos\Homework #1\C.Sharp.Course\bin\Debug\C.Sharp.Course.pdb
+D:\Git Repos\Homework #1\C.Sharp.Course\obj\Debug\C.Sharp.Course.csprojAssemblyReference.cache
+D:\Git Repos\Homework #1\C.Sharp.Course\obj\Debug\C.Sharp.Course.exe
+D:\Git Repos\Homework #1\C.Sharp.Course\obj\Debug\C.Sharp.Course.pdb
