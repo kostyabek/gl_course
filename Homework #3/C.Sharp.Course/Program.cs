@@ -129,22 +129,22 @@ namespace C.Sharp.Course
         static void Main(string[] args)
         {
             //TASK 1
-            //Shape1 sh1 = new Shape1();
-            //sh1.Width = 5.14;
-            //sh1.Height = 22.1;
-            //Console.WriteLine("Shape1 area = {0}", sh1.Area());
-            //Shape2 sh2 = new Shape2();
-            //sh2.Width = 4.14;
-            //sh2.Height = 21.1;
-            //Console.WriteLine("Shape1 area = {0}", sh2.Area());
-            //Shape3 sh3 = new Shape3();
-            //sh3.Width = 3.14;
-            //sh3.Height = 20.1;
-            //Console.WriteLine("Shape1 area = {0}", sh3.Area());
-            //Shape4 sh4 = new Shape4();
-            //sh4.Width = 2.14;
-            //sh4.Height = 19.1;
-            //Console.WriteLine("Shape1 area = {0}", sh4.Area());
+            Shape1 sh1 = new Shape1();
+            sh1.Width = 5.14;
+            sh1.Height = 22.1;
+            Console.WriteLine("Shape1 area = {0}", sh1.Area());
+            Shape2 sh2 = new Shape2();
+            sh2.Width = 4.14;
+            sh2.Height = 21.1;
+            Console.WriteLine("Shape1 area = {0}", sh2.Area());
+            Shape3 sh3 = new Shape3();
+            sh3.Width = 3.14;
+            sh3.Height = 20.1;
+            Console.WriteLine("Shape1 area = {0}", sh3.Area());
+            Shape4 sh4 = new Shape4();
+            sh4.Width = 2.14;
+            sh4.Height = 19.1;
+            Console.WriteLine("Shape1 area = {0}", sh4.Area());
 
             //TASK 2
             Console.ForegroundColor = ConsoleColor.White;
